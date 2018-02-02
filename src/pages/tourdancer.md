@@ -83,6 +83,6 @@ description: Tia-Maria "Tinze" Sokka
 <img src="https://dumboecom.s3.amazonaws.com/images/tourdancer/TourDancer_14.jpg">
 <p class="photo-caption">Family portrait</p>
 <p style="text-align:center">Tia-Maria's career has still just begun but she has reached a lot in the past years. She has been riding in the forefront of the Twerk wave and helped to make it popular in Finland. From rejection to mainstream. Believe in yourself and everything is possible.</p>
-  
+ls  
         </div>
 </div>
